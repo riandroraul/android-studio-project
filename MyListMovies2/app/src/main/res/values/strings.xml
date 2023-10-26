@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">Populer Movies </string>
+    <string name="classmate_title">Title</string>
+    <string name="classmate_genre">Genre</string>
+    <string name="classmate_dateRelease">Tanggal Release</string>
+
+    <string-array name="data_title">
+        <item>Steve Jobs: The Man in the Machine (2015)</item>
+        <item>Pulau Hantu 2 (2008)</item>
+        <item>Serigala Terakhir (2009)</item>
+        <item>Ganteng Ganteng Serigala (2014–2015)</item>
+
+        <item>Transformers: Dark of the Moon</item>
+        <item>Terminator: Dark Fate (2019)</item>
+        <item>Furious 7 (2015)</item>
+        <item>Fast &amp; Furious 6 (2013)</item>
+
+        <item>Warkop DKI Reborn: Jangkrik Boss Part 1 (2016)</item>
+        <item>Lucifer (2016–2021)</item>
+        <item>300: Rise of an Empire (2014)</item>
+        <item>Transformers: The Last Knight (2017)</item>
+
+        <item>KKN di Desa Penari (2022)</item>
+        <item>Mr Bean: Funeral (2015)</item>
+        <item>Hacksaw Ridge (2016)</item>
+    </string-array>
+
+
+    <string-array name="data_genre">
+        <item>Documentary, Biography</item>
+        <item>Horror</item>
+        <item>Action, Crime, Drama</item>
+        <item>Fantasy, Romance</item>
+
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Crime, Thriller</item>
+        <item>Action, Crime, Thriller</item>
+
+        <item>Adventure, Comedy</item>
+        <item>Crime, Drama, Fantasy</item>
+        <item>Action, Drama</item>
+        <item>Action, Adventure, Sci-Fi</item>
+
+        <item>Horror, Mystery</item>
+        <item>Short, Comedy</item>
+        <item>Biography, Drama, History</item>
+
+    </string-array>
+    <string-array name="data_dateRelease">
+        <item>04 Sep 2015</item>
+        <item>11 Jun 2008</item>
+        <item>05 Nov 2009</item>
+        <item>01 Jun 2014</item>
+
+        <item>01 Nov 2019</item>
+        <item>29 Jun 2011</item>
+        <item>03 Apr 2015</item>
+        <item>24 May 2013</item>
+
+        <item> 08 Sep 2016</item>
+        <item> 25 Jan 2016</item>
+        <item> 07 Mar 2014</item>
+        <item> 21 Jun 2017</item>
+
+        <item> 30 Apr 2022</item>
+        <item> 13 Mar 2015</item>
+        <item> 04 Nov 2016</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://m.media-amazon.com/images/M/MV5BMTUwMzAyMjgyNV5BMl5BanBnXkFtZTgwOTU3ODUzNjE@._V1_SX300.jpg
+        </item>
+        <item>https://m.media-amazon.com/images/M/MV5BNTkzMmRmNGQtYzlhMS00NDQ5LTlkMzItYzM0ZTJmZmU3ZmU2XkEyXkFqcGdeQXVyMTM0NDkxNDIz._V1_SX300.jpg
+        </item>
+        <item>https://m.media-amazon.com/images/M/MV5BNmNkOWQzOTItMGU2Yi00NzJiLWJkMTYtZDdlOGVjYjAzZGI2XkEyXkFqcGdeQXVyNDM5MjIyMzk@._V1_SX300.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMjAzMGNlNmEtZGE3ZS00ZTg5LWEzODktMTNlNjY4MGEzMjhjXkEyXkFqcGdeQXVyMjU0ODQ5NTA@._V1_SX300.jpg
+        </item>
+
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMTkwOTY0MTc1NV5BMl5BanBnXkFtZTcwMDQwNjA2NQ@@._V1_SX300.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BNzhlYjE5MjMtZDJmYy00MGZmLTgwN2MtZGM0NTk2ZTczNmU5XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMTQxOTA2NDUzOV5BMl5BanBnXkFtZTgwNzY2MTMxMzE@._V1_SX300.jpg
+        </item>
+        <item>
+            https://m.media-amazon.com/images/M/MV5BMTM3NTg2NDQzOF5BMl5BanBnXkFtZTcwNjc2NzQzOQ@@._V1_SX300.jpg
+        </item>
+
+        <item>
+            https://m.media-amazon.com/images/M/MV5BZjYwMGM0NGMtOTM4Zi00OTNhLTgwZTItNzYwMzc5YzE4ZjJhXkEyXkFqcGdeQXVyNjIwMTgzMTg@._V1_SX300.jpg
+        </item>
+        <item>
+        https://m.media-amazon.com/images/M/MV5BNDJjMzc4NGYtZmFmNS00YWY3LThjMzQtYzJlNGFkZGRiOWI1XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_SX300.jpg
+        </item>
+        <item>
+        https://m.media-amazon.com/images/M/MV5BMTEwNTU2MjAwMDdeQTJeQWpwZ15BbWU3MDk2Njc2Njk@._V1_SX300.jpg
+        </item>
+        <item>
+        https://m.media-amazon.com/images/M/MV5BN2YwOWM4ODgtZTMzMi00ZmFmLTk5NTEtNmY4ZDcwNzQxNDhjXkEyXkFqcGdeQXVyNTI0NzAyNjY@._V1_SX300.jpg
+        </item>
+
+        <item>
+            https://m.media-amazon.com/images/M/MV5BYjBjM2Y5YWEtNTgyMi00MzcwLThkYTctYzZmY2FkNjZjZTRjXkEyXkFqcGdeQXVyMTEzMTI1Mjk3._V1_SX300.jpg
+        </item>
+        <item>
+        https://m.media-amazon.com/images/M/MV5BZDY5YWQ4MDctYjAwYS00YjA5LWJiM2MtY2I4MzI4ZWUzNjUwXkEyXkFqcGdeQXVyNjU1ODU4NDA@._V1_SX300.jpg
+        </item>
+        <item>
+        https://m.media-amazon.com/images/M/MV5BMjQ1NjM3MTUxNV5BMl5BanBnXkFtZTgwMDc5MTY5OTE@._V1_SX300.jpg
+        </item>
+
+
+
+    </string-array>
+</resources>

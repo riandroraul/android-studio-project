@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Menu Restaurant</string>
+    <string name="name_heroes">Nama makanan dan minuman</string>
+    <string name="lorem">Restaurant Cepat Saji 06TPLE001</string>
+    <string-array name="data_name">
+        <item>American Favourite</item>
+        <item>Beef Lasagna</item>
+        <item>Beef Spagetti</item>
+        <item>Meat Lover</item>
+        <item>Creamy Beef Fettuccine</item>
+        <item>Meatballs Beef Mushroom</item>
+        <item>Tuna Melt</item>
+        <item>Oriental Chicken</item>
+        <item>Chocolate Milkshake</item>
+        <item>Choco Mint</item>
+    </string-array>
+    <string-array name="data_description">
+    <item>Pepperoni sapi, daging sapi cincang, jamur.</item>
+    <item>Dipanggang, daging sapi cincang. krim putih lembut di tiap lapisan.</item>
+    <item>Pepperoni sapi, daging sapi cincang, jamur.</item>
+    <item>Irisan sosis sapi, daging sapi cincang, burger sapi, sosis ayam.</item>
+    <item>Daging sapi asap dan jamur, ditumis dengan saus krim lembut.</item>
+        <item>Bola daging sapi dengan saus daging sapi cincang dan jamur..</item>
+        <item>Irisan daging ikan tuna, butiran jagung, saus mayonnaise.</item>
+        <item>Daging ayam berpadu dengan saus oriental.</item>
+        <item>rasa coklat dengan topping ice cream rasa coklat diatasnya.</item>
+        <item>perpaduan bubuk coklat dengan ekstrakt daun mint dengan tambahan resep khusus dari Jakarta Bubble Drink yang memiliki cita rasa yang khas.</item>
+    </string-array>
+    <array name="data_photo">
+    <item>@drawable/american_favourite</item>
+        <item>@drawable/beef_lasagna</item>
+        <item>@drawable/beef_spaghetti</item>
+        <item>@drawable/meat_lover</item>
+        <item>@drawable/creamy_beef_fettuccine</item>
+        <item>@drawable/meatballs_beef_mushroom</item>
+        <item>@drawable/tuna_melt</item>
+        <item>@drawable/oriental_chicken</item>
+        <item>@drawable/chocolate_milkshake</item>
+        <item>@drawable/choco_mint</item>
+    </array>
+</resources>
