@@ -1,0 +1,67 @@
+<resources>
+    <string name="app_name">Daftar Film</string>
+    <string name="classmate_judul">Judul</string>
+    <string name="classmate_genre">Genre</string>
+    <string name="classmate_tglrilis">Tanggal rilis</string>
+
+    <string-array name="data_judul">
+        <item>The Avengers (2012)</item>
+        <item>Avengers: Endgame</item>
+        <item>Avengers: Infinity War</item>
+        <item>Transformers: Revenge of the Fallen (2009)</item>
+        <item>Transformers: Revenge of the Fallen (2012)</item>
+        <item>Transformers: Revenge of the Fallen (2009)</item>
+        <item>Transformers: Revenge of the Fallen (2009)</item>
+        <item>Transformers: Revenge of the Fallen (2009)</item>
+        <item>Transformers: Revenge of the Fallen (2009)</item>
+        <item>Transformers: Revenge of the Fallen (2009)</item>
+        <item>Transformers: Revenge of the Fallen (2009)</item>
+        <item>Transformers: Revenge of the Fallen (2009)</item>
+    </string-array>
+
+    <string-array name="data_genre">
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+        <item>Action, Adventure, Sci-Fi</item>
+    </string-array>
+
+    <string-array name="data_tglrilis">
+        <item>04 May 2012</item>
+        <item>26 Apr 2019</item>
+        <item>27 Apr 2018</item>
+        <item>24 Jun 2009</item>
+        <item>24 Jun 2009</item>
+        <item>24 Jun 2009</item>
+        <item>24 Jun 2009</item>
+        <item>24 Jun 2009</item>
+        <item>24 Jun 2009</item>
+        <item>24 Jun 2009</item>
+        <item>24 Jun 2009</item>
+        <item>24 Jun 2009</item>
+    </string-array>
+
+    <string-array name="data_photo">
+        <item>https://m.media-amazon.com/images/M/MV5BNDYxNjQyMjAtNTdiOS00NGYwLWFmNTAtNThmYjU5ZGI2YTI1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX300.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_SX300.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_SX300.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg</item>
+        <item>https://m.media-amazon.com/images/M/MV5BNjk4OTczOTk0NF5BMl5BanBnXkFtZTcwNjQ0NzMzMw@@._V1_SX300.jpg</item>
+    </string-array>
+
+</resources>
